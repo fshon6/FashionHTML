@@ -1,0 +1,105 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AFK FASHION</title>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Chivo:300,700|Playfair+Display:700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/style_index.css">
+    <link rel="stylesheet" href="css/demo.css">
+    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/categories.css">
+    <link rel="stylesheet" href="css/merlin.css">
+</head> 
+<body>  
+  <!-- navigation bar -->
+    <nav>
+      <div class="logo">
+        <h3><a href="merlin.html" class="logo-name">AFK Fashion</a></h3>
+      </div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="categories.html">Categories</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        
+      </ul>
+      <div class="burger">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+      </div>
+    </nav>
+  <!-- navigation bar -->
+ 
+    <h1 class="main-head-of-color-gold">More in STORE!!</h1>
+        <center><hr></center> 
+    <div class="merlin-grids1">
+      <a href="index.html"><img src="images/merlin-img/merlin-3.jpg" alt=""></a><br> 
+        
+      <a href="index.html"><img src="images/merlin-img/merlin-2.jpg" alt=""></a>
+    </div>
+
+    <br><br>
+
+    <div class="merlin-grids2">
+      <a href="index.html"><img src="images/merlin-img/merlin-5.jpg" alt=""></a>
+      <br>
+      <img src="images/merlin-img/merlin.png" alt="">
+      
+    </div>
+
+    <br><br>
+
+  <!-- FOOTER -->
+    <div class="footer-container">
+      <div class="footer-1">
+        <a href="index.html"><h2>AFK FASHION🦋</h2></a>
+        <br>
+        <p><b>ONLINE SHOPPING</b></p>
+          <h6>
+            Men<br><br>
+            Women <br><br>
+            Kids <br><br>
+        
+          </h6>
+      </div>
+
+      <div class="footer-2">
+        <p><b>USEFUL LINKS</b></p>
+        <h6>
+          Contact Us<br><br>
+          FAQ<br><br>
+          T&C<br><br>
+          Blog<br><br>
+          Privacy Policy<br><br>
+        </h6>
+      </div>
+
+      <div class="footer-3">
+        <p><b>Original Products</b> guarantee</p>
+          <h6>
+            for all products @ afkfashion.com
+          </h6>
+        <p><b>Return as per policy</b></p>
+          <h6>
+            Receive your order in 3-10days
+          </h6>
+        <p><b>Get free deliveries</b> on your first three orders</p>
+          <h6>
+            Order above Rs.999 and get a Rs.200 coupon
+          </h6>
+        <br><br>
+      </div>
+    
+    </div>
+    <p class="copy-right"><a href="index.html">AFK fashions</a>&copy;2023</p>
+    <br>
+  <!-- FOOTER -->
+    
+  <script type="text/javascript" src="js/nav.js"></script>
+</body>
+</html>
+
